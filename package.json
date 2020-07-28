@@ -1,0 +1,50 @@
+{
+  "name": "deathdate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://catalinnon3.github.io/deathdate/",
+  "scripts": {
+    "start": "cross-env PORT=10888 react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "set \"GENERATE_SOURCEMAP=false\" && npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "gh-pages": "^2.1.1",
+    "react-hot-loader": "^4.9.0",
+    "react-scripts": "^3.1.2"
+  },
+  "dependencies": {
+    "@vkontakte/icons": "^1.29.0",
+    "@vkontakte/vk-bridge": "^2.2.4",
+    "@vkontakte/vkui": "^3.12.0",
+    "babel-eslint": "^10.0.3",
+    "chalk": "^2.4.2",
+    "core-js": "^3.1.4",
+    "eruda": "^2.2.1",
+    "html2canvas": "^1.0.0-rc.5",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-clipboard.js": "^2.0.16",
+    "react-copy-to-clipboard": "^5.0.2",
+    "react-dom": "^16.9.0",
+    "request": "^2.88.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
