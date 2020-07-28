@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mementomori/precache-manifest.938f5ac43e9888ecf585355cc0385228.js"
+  "/mementomori/precache-manifest.9e2284614f1ee9c1103a3a37ab2ff75b.js"
 );
 
 self.addEventListener('message', (event) => {
