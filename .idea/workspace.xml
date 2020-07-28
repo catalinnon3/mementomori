@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38035a35-933b-4560-ab0d-1376196c823d" name="Default Changelist" comment="" />
+    <list default="true" id="38035a35-933b-4560-ab0d-1376196c823d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/precache-manifest.3366240ac2b93413bd953a11cfa15862.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/2.410b4b03.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1ffbf2f91ec8a3e9cc220a8bf59f1a07.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8e258069e4d71e5b7e7473f67957050f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/3e005734bbeb04a72d5114d1f6a3bf6c35396357.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/2a/95/81a62ce3182de119d33994a6d4addcdce50197d0842879b47e22a14acb7356549186eed52c4d8b43070f287d7f6dc7dfa7f9562fb6da8f1d0247d43f3430" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/37/83/d6c770624c1d70e147d87f20a8bed6220ae16cdbca2c9295f30e3d630fbdf014ce1bd1d97d79c9204aa7d4792c862648f25392afe9ad101e431c7c43c0f5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/bb/b2/5c2f2bb742f14337b4aa3d805c0990b6b78c3e33a5c2433301dc38d7479d8468d2d19dad8ffd92d86ee1f1f8c636afd2bd585ec9616861fdd69f7dc8d55f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/37/e7/afbfc2757a6f0ecd8e392a255652c5c3d0734292fcf88e377d502806f897" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/cf/43/13b50dca8e0ba527864fa2910b976a3fc76e2f5abe7cc1f2d5e0788d24d8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/f3/92/f4c06ea1b7fdc4dde16ec3a2dbd356e9408e1289d960d6d731e92ee37848" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!catalinnon3!deadtime.git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.a285e37b0503d4e24936760e3990d75b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.4285fc34.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/css/main.5f8c3862.chunk.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.a45200fa.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.6ae80aee.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/main.2a5f244e.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.67627fc5.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/runtime-main.04270643.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="301" column="69" selection-start-line="301" selection-start-column="69" selection-end-line="301" selection-end-column="69" />
+            <state relative-caret-position="180">
+              <caret line="375" column="53" selection-start-line="375" selection-start-column="48" selection-end-line="375" selection-end-column="53" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
                 <element signature="n#!!block;n#componentDidMount#0;n#App#0" />
@@ -46,20 +69,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/css/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="391">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -68,8 +91,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>reason1</find>
-      <find>date2</find>
       <find>reason2</find>
       <find>_date1</find>
       <find>_reason1</find>
@@ -98,6 +119,8 @@
       <find>img</find>
       <find>group_</find>
       <find>eruda</find>
+      <find>197419756</find>
+      <find>Snack</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -120,9 +143,9 @@
         <option value="$PROJECT_DIR$/src/components/StickerImg.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/css/App.css" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/css/App.css" />
       </list>
     </option>
   </component>
@@ -278,12 +301,12 @@
       <workItem from="1595690126099" duration="15199000" />
       <workItem from="1595753691266" duration="7141000" />
       <workItem from="1595761695953" duration="496000" />
-      <workItem from="1595967978226" duration="5069000" />
+      <workItem from="1595967978226" duration="5488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206210000" />
+    <option name="totallyTimeSpent" value="206629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -298,14 +321,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32827735" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="TypeScript" order="8" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.3261105" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -418,36 +441,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/lib/react-app.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="36" column="25" selection-start-line="36" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="301" column="69" selection-start-line="301" selection-start-column="69" selection-end-line="301" selection-end-column="69" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <element signature="n#!!block;n#componentDidMount#0;n#App#0" />
-            <element signature="n#!!block;n#initializeApp#0;n#App#0" />
-            <element signature="n#!!block;n#initializeTimer#0;n#App#0" />
-            <element signature="n#!!block;n#generateRandomTime#0;n#App#0" />
-            <element signature="n#!!block;n#decOfNum#0;n#App#0" />
-            <element signature="n#!!block;n#updateTime#0;n#App#0" />
-            <element signature="n#!!block;n#go#0;n#App#0" />
-            <element signature="n#!!block;n#sleep#0;n#App#0" />
-            <element signature="n#!!block;n#random#0;n#App#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -463,8 +460,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="375" column="53" selection-start-line="375" selection-start-column="48" selection-end-line="375" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="n#!!block;n#componentDidMount#0;n#App#0" />
+            <element signature="n#!!block;n#initializeApp#0;n#App#0" />
+            <element signature="n#!!block;n#initializeTimer#0;n#App#0" />
+            <element signature="n#!!block;n#generateRandomTime#0;n#App#0" />
+            <element signature="n#!!block;n#decOfNum#0;n#App#0" />
+            <element signature="n#!!block;n#updateTime#0;n#App#0" />
+            <element signature="n#!!block;n#go#0;n#App#0" />
+            <element signature="n#!!block;n#sleep#0;n#App#0" />
+            <element signature="n#!!block;n#random#0;n#App#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
