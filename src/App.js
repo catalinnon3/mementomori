@@ -16,8 +16,8 @@ import skull4 from './img/skull4.svg'
 import downwards_black_arrow from './img/downwards-black-arrow.png';
 import story_bg from './img/story-bg.jpg';
 
-let group_id = 197492214,
-	app_id = 7551995,
+let group_id = 197503565,
+	app_id = 7552341,
 	need_sub_group = true;
 
 const os = platform();
