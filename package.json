@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://catalinnon3.github.io/deaddate/",
+  "homepage": "https://catalinnon3.github.io/deathdate/",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "set \"GENERATE_SOURCEMAP=false\" && npm run build",
+    "predeploy": "set \"GENERATE_SOURCEMAP=true\" && npm run build",
     "deploy": "gh-pages -d build"
   },
   "keywords": [],

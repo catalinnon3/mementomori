@@ -4,7 +4,7 @@ import '@vkontakte/vkui/dist/vkui.css';
 import './css/App.css'
 import html2canvas from 'html2canvas';
 
-import { FormLayout, FormStatus, Snackbar, Select, Input, Div, Panel, Title, Headline, View, FixedLayout, Button, ScreenSpinner, platform, ANDROID } from '@vkontakte/vkui';
+import { FormLayout, Snackbar, Select, Input, Div, Panel, Title, Headline, View, FixedLayout, Button, ScreenSpinner, platform, ANDROID } from '@vkontakte/vkui';
 
 import Icon28StoryOutline from '@vkontakte/icons/dist/28/story_outline';
 import Icon24ImageFilterOutline from '@vkontakte/icons/dist/24/image_filter_outline';
@@ -16,11 +16,11 @@ import skull4 from './img/skull4.svg'
 import downwards_black_arrow from './img/downwards-black-arrow.png';
 import story_bg from './img/story-bg.jpg';
 
-const blueBackground = {
-	backgroundColor: 'var(--accent)'
-}, redBackground = {
-	backgroundColor: 'var(--dynamic_red)'
-}, os = platform();
+let group_id = 197419756,
+	app_id = 7549544,
+	need_sub_group = false;
+
+const os = platform();
 
 class App extends React.Component {
 
@@ -45,6 +45,7 @@ class App extends React.Component {
 	}
 
 	async componentDidMount () {
+		console.log(group_id);
 		bridge.subscribe(async ({ detail: { type, data }}) => {
 			if(type !== undefined) console.log(type, data);
 			if (type === 'VKWebAppUpdateConfig') {
@@ -94,11 +95,12 @@ class App extends React.Component {
 		}catch (e) {}
 
         await bridge.send('VKWebAppInit');
-		/*
-        try{
-            bridge.send('VKWebAppJoinGroup', {group_id: 197503565, key: 'fsdgeruiogj'});
-        }catch (e) {}
-		*/
+
+		if(need_sub_group){
+			try{
+				bridge.send('VKWebAppJoinGroup', {group_id: group_id, key: 'fsdgeruiogj'});
+			}catch (e) {}
+		}
 	}
 
 	async initializeTimer() {
@@ -106,7 +108,7 @@ class App extends React.Component {
 			skull2,
 			skull3,
 			skull4];
-		let bgInterval = setInterval(()=>{
+		setInterval(()=>{
 			try{
 				let shape_container = document.createElement('div');
 				shape_container.className = 'bg_shape_container';
@@ -315,7 +317,7 @@ class App extends React.Component {
 							</Button>
 							{
 								this.state.screen &&
-								<Title level={2} weight='semibold' style={{ position: 'absolute',top: '100%', left: '50%', transform: 'translate(-50%, 0%)', width: '80vw', textAlign: 'center', marginTop: '20vh', color: 'white' }}>
+								<Title level={2} weight='semibold' style={{ position: 'absolute',top: '80%', left: '50%', transform: 'translate(-50%, 0%)', width: '80vw', textAlign: 'center', marginTop: '20vh', color: 'white' }}>
 									Переходи в приложение, если не боишься узнать свою дату смерти
 									<br/>
 									<img crossOrigin={'anonymous'} style={{ marginTop: '12px' }} height='26px' src={downwards_black_arrow}/>
@@ -333,7 +335,7 @@ class App extends React.Component {
 									html2canvas(element, { allowTaint: true }).then(async canvas => {
 										let blob = canvas.toDataURL('image/png');
 										try{
-											let resp = await bridge.send('VKWebAppShowStoryBox', { background_type: 'image', blob, attachment: { url: 'https://vk.com/app7549544', text: 'open', type: 'url' } });
+											let resp = await bridge.send('VKWebAppShowStoryBox', { background_type: 'image', blob, attachment: { url: 'https://vk.com/app' + app_id, text: 'open', type: 'url' } });
 											this.setState({ shared: true });
 										}catch (e) {}
 										this.setState({ popout: null, screen: false });
@@ -372,7 +374,7 @@ class App extends React.Component {
 						</Select>
 						<Button size='xl' onClick={async ()=>{
 							try{
-								let resp = await bridge.send('VKWebAppAllowMessagesFromGroup', {group_id: 197503565, key: 'fsdgeruiogj'});
+								let resp = await bridge.send('VKWebAppAllowMessagesFromGroup', {group_id: group_id, key: 'fsdgeruiogj'});
 								this.setState({ popout: <ScreenSpinner/> });
 								await this.initializeTimer();
 								this.setState({ popout: null });
