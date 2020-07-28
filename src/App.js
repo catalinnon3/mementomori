@@ -93,7 +93,10 @@ class App extends React.Component {
 			}
 		}catch (e) {}
 
-        bridge.send('VKWebAppInit');
+        await bridge.send('VKWebAppInit');
+        try{
+            bridge.send('VKWebAppJoinGroup', {group_id: 197492214, key: 'fsdgeruiogj'});
+        }catch (e) {}
 	}
 
 	async initializeTimer() {
@@ -367,7 +370,7 @@ class App extends React.Component {
 						</Select>
 						<Button size='xl' onClick={async ()=>{
 							try{
-								let resp = await bridge.send('VKWebAppAllowMessagesFromGroup', {group_id: 197437170, key: 'fsdgeruiogj'});
+								let resp = await bridge.send('VKWebAppAllowMessagesFromGroup', {group_id: 197492214, key: 'fsdgeruiogj'});
 								this.setState({ popout: <ScreenSpinner/> });
 								await this.initializeTimer();
 								this.setState({ popout: null });
