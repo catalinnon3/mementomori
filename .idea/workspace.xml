@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38035a35-933b-4560-ab0d-1376196c823d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="41">
+              <caret line="301" column="69" selection-start-line="301" selection-start-column="69" selection-end-line="301" selection-end-column="69" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+                <element signature="n#!!block;n#componentDidMount#0;n#App#0" />
+                <element signature="n#!!block;n#initializeApp#0;n#App#0" />
+                <element signature="n#!!block;n#initializeTimer#0;n#App#0" />
+                <element signature="n#!!block;n#generateRandomTime#0;n#App#0" />
+                <element signature="n#!!block;n#decOfNum#0;n#App#0" />
+                <element signature="n#!!block;n#updateTime#0;n#App#0" />
+                <element signature="n#!!block;n#go#0;n#App#0" />
+                <element signature="n#!!block;n#sleep#0;n#App#0" />
+                <element signature="n#!!block;n#random#0;n#App#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/App.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reason1</find>
+      <find>date2</find>
+      <find>reason2</find>
+      <find>_date1</find>
+      <find>_reason1</find>
+      <find>_date2</find>
+      <find>_reason2</find>
+      <find>__date1</find>
+      <find>__reason1</find>
+      <find>__date2</find>
+      <find>__reason2</find>
+      <find>___date2</find>
+      <find>___date1</find>
+      <find>___reason1</find>
+      <find>___reason2</find>
+      <find>____date2</find>
+      <find>____date1</find>
+      <find>____reason1</find>
+      <find>____reason2</find>
+      <find>' +</find>
+      <find>_____date1</find>
+      <find>_____reason1</find>
+      <find>_____date2</find>
+      <find>_____reason2</find>
+      <find>Необходим</find>
+      <find>screen: true1</find>
+      <find>skull1</find>
+      <find>img</find>
+      <find>group_</find>
+      <find>eruda</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/panels/Home.js" />
+        <option value="$PROJECT_DIR$/src/css/card-button.css" />
+        <option value="$PROJECT_DIR$/src/components/CardButton.js" />
+        <option value="$PROJECT_DIR$/src/components/StickerDescription.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/components/StickerUploadButton.js" />
+        <option value="$PROJECT_DIR$/src/components/StickerButton.js" />
+        <option value="$PROJECT_DIR$/src/components/CardElement.js" />
+        <option value="$PROJECT_DIR$/src/components/CardElements.js" />
+        <option value="$PROJECT_DIR$/src/components/IconButton.js" />
+        <option value="$PROJECT_DIR$/src/components/StickerGrid.js" />
+        <option value="$PROJECT_DIR$/src/components/StickerImg.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/css/App.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="765" />
+    <option name="width" value="1162" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DeathDate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeathDate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeathDate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeathDate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeathDate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeathDate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ClickerBattle" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\NodeProjects\TestMiniApp\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\NodeProjects\VKStickers2\src\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.deploy">
+    <configuration name="deploy" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.deploy" />
+      <item itemvalue="npm.start" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38035a35-933b-4560-ab0d-1376196c823d" name="Default Changelist" comment="" />
+      <created>1583609417057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583609417057</updated>
+      <workItem from="1583609418256" duration="5551000" />
+      <workItem from="1583695464636" duration="11000" />
+      <workItem from="1583778506303" duration="8543000" />
+      <workItem from="1584533274638" duration="14890000" />
+      <workItem from="1584638849255" duration="607000" />
+      <workItem from="1584873971344" duration="9000" />
+      <workItem from="1585326396453" duration="1362000" />
+      <workItem from="1585407222505" duration="9397000" />
+      <workItem from="1585513844290" duration="2653000" />
+      <workItem from="1585570676543" duration="632000" />
+      <workItem from="1585650511538" duration="6000" />
+      <workItem from="1585679386054" duration="3566000" />
+      <workItem from="1585722330311" duration="88000" />
+      <workItem from="1585722437945" duration="598000" />
+      <workItem from="1585813843387" duration="13665000" />
+      <workItem from="1585908836996" duration="25350000" />
+      <workItem from="1585951335101" duration="3630000" />
+      <workItem from="1585985157971" duration="14330000" />
+      <workItem from="1586012269719" duration="15213000" />
+      <workItem from="1586037352841" duration="618000" />
+      <workItem from="1586092132728" duration="2897000" />
+      <workItem from="1586133806088" duration="1093000" />
+      <workItem from="1586164295065" duration="12121000" />
+      <workItem from="1586178743587" duration="29000" />
+      <workItem from="1586191034809" duration="468000" />
+      <workItem from="1586204881426" duration="9406000" />
+      <workItem from="1586246728443" duration="10438000" />
+      <workItem from="1586285961451" duration="93000" />
+      <workItem from="1586286106669" duration="4000" />
+      <workItem from="1586297256347" duration="6805000" />
+      <workItem from="1586351261090" duration="982000" />
+      <workItem from="1586384720440" duration="2492000" />
+      <workItem from="1586392050372" duration="1844000" />
+      <workItem from="1586432500011" duration="18000" />
+      <workItem from="1586433321026" duration="180000" />
+      <workItem from="1586434087718" duration="632000" />
+      <workItem from="1586436691629" duration="608000" />
+      <workItem from="1586513060123" duration="4000" />
+      <workItem from="1586684284221" duration="22000" />
+      <workItem from="1588154705412" duration="5589000" />
+      <workItem from="1588171309481" duration="1210000" />
+      <workItem from="1588181075045" duration="12000" />
+      <workItem from="1594148714562" duration="639000" />
+      <workItem from="1595690126099" duration="15199000" />
+      <workItem from="1595753691266" duration="7141000" />
+      <workItem from="1595761695953" duration="496000" />
+      <workItem from="1595967978226" duration="5069000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="206210000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13432837" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="TypeScript" order="8" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.3261105" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/panels/Home.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/dist/components/CardGrid/CardGrid.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/dist/components/CardGrid/CardGrid.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/card-button.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/CardButton.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/vk-io/lib/index.mjs" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vk-bridge/dist/types/src/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/dist/components/Link/Link.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/src/components/Link/Link.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/dist/components/Cell/Cell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="321" column="15" selection-start-line="321" selection-start-column="8" selection-end-line="321" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/src/components/Cell/Cell.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="290" column="56" selection-start-line="290" selection-start-column="49" selection-end-line="290" selection-end-column="56" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/StickerDescription.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/dist/components/Button/Button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-598" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/StickerUploadButton.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/src/components/Tappable/Tappable.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4896">
+          <folding>
+            <element signature="e#0#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/src/components/Tappable/Tappable.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-788" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/src/components/Button/Button.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/StickerButton.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/StickerImg.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/CardElements.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/CardElement.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/StickerGrid.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/IconButton.js" />
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/dist/components/ScreenSpinner/ScreenSpinner.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/lib/react-app.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="36" column="25" selection-start-line="36" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="301" column="69" selection-start-line="301" selection-start-column="69" selection-end-line="301" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="n#!!block;n#componentDidMount#0;n#App#0" />
+            <element signature="n#!!block;n#initializeApp#0;n#App#0" />
+            <element signature="n#!!block;n#initializeTimer#0;n#App#0" />
+            <element signature="n#!!block;n#generateRandomTime#0;n#App#0" />
+            <element signature="n#!!block;n#decOfNum#0;n#App#0" />
+            <element signature="n#!!block;n#updateTime#0;n#App#0" />
+            <element signature="n#!!block;n#go#0;n#App#0" />
+            <element signature="n#!!block;n#sleep#0;n#App#0" />
+            <element signature="n#!!block;n#random#0;n#App#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

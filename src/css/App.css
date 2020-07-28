@@ -1,0 +1,57 @@
+body{
+    overflow: hidden;
+}
+
+.Snackbar__body {
+    margin-bottom: 20px;
+}
+
+.centered {
+    display: flex;
+    display: -ms-flex;
+    display: -moz-flex;
+    display: -webkit-flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    -webkit-justify-content: center;
+}
+.Link {
+    color: inherit;
+}
+.CellButton {
+    color: inherit;
+}
+
+#bg_shapes {
+    opacity: .15;
+}
+
+.bg_shape_container {
+    position: absolute;
+    width: 25%;
+    animation: bg_anim1 10000ms;
+}
+
+.bg_shape {
+    position: absolute;
+    width: 100%;
+    animation: bg_anim2 10000ms;
+}
+
+@keyframes bg_anim1 {
+    100% { transform: translateY(-50vh); }
+    0% { transform: translateY(100vh); }
+}
+
+@keyframes bg_anim2 {
+    0% { transform: translateX(var(--offset-x-1)); }
+    25% { transform: translateX(var(--offset-x-2)); }
+    50% { transform: translateX(var(--offset-x-3)); }
+    75% { transform: translateX(var(--offset-x-4)); }
+    100% { transform: translateX(var(--offset-x-5)); }
+}
+
+.light_outline {
+    filter: drop-shadow(4px 0px 0 white) drop-shadow(0px 4px 0 white) drop-shadow(-4px 0px 0 white) drop-shadow(0px -4px 0 white);
+}
