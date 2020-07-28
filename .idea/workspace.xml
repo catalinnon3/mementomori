@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38035a35-933b-4560-ab0d-1376196c823d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.7ad10ba20818c551a6cfa8b7e73f5bf5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.36cf89602d3f52f17e17c1b10a0cb511.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/2.1e562f28.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/2.1e562f28.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.1a7b2579.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.1a7b2579.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.a45200fa.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/2.a45200fa.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.a45200fa.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.9bcf62ea.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/main.9bcf62ea.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.9bcf62ea.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.67627fc5.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/runtime-main.67627fc5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.67627fc5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.a45200fa.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.9bcf62ea.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.67627fc5.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+            <state relative-caret-position="306">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
                 <element signature="n#!!block;n#generateRandomTime#0;n#App#0" />
@@ -48,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="54" />
+              <caret line="5" column="53" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -114,8 +105,8 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/css/App.css" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/App.js" />
       </list>
     </option>
   </component>
@@ -273,12 +264,12 @@
       <workItem from="1595761695953" duration="496000" />
       <workItem from="1595967978226" duration="8031000" />
       <workItem from="1595976038517" duration="148000" />
-      <workItem from="1595976909872" duration="1917000" />
+      <workItem from="1595976909872" duration="2159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211237000" />
+    <option name="totallyTimeSpent" value="211479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -433,10 +424,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+        <state relative-caret-position="306">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <element signature="n#!!block;n#generateRandomTime#0;n#App#0" />
@@ -446,13 +444,6 @@
             <element signature="n#!!block;n#sleep#0;n#App#0" />
             <element signature="n#!!block;n#random#0;n#App#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="54" />
         </state>
       </provider>
     </entry>
