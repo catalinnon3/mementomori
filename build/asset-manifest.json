@@ -1,12 +1,21 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/deathdate/static/css/main.84bec8af.chunk.css",
     "main.js": "/deathdate/static/js/main.cfb34d26.chunk.js",
+=======
+    "main.css": "/deathdate/static/css/main.4285fc34.chunk.css",
+    "main.js": "/deathdate/static/js/main.6ae80aee.chunk.js",
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
     "runtime-main.js": "/deathdate/static/js/runtime-main.67627fc5.js",
     "static/css/2.19481ff5.chunk.css": "/deathdate/static/css/2.19481ff5.chunk.css",
     "static/js/2.a45200fa.chunk.js": "/deathdate/static/js/2.a45200fa.chunk.js",
     "index.html": "/deathdate/index.html",
+<<<<<<< HEAD
     "precache-manifest.4ab43124b7c5b03e7d8c08948fd414ed.js": "/deathdate/precache-manifest.4ab43124b7c5b03e7d8c08948fd414ed.js",
+=======
+    "precache-manifest.a285e37b0503d4e24936760e3990d75b.js": "/deathdate/precache-manifest.a285e37b0503d4e24936760e3990d75b.js",
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
     "service-worker.js": "/deathdate/service-worker.js",
     "static/media/skull1.svg": "/deathdate/static/media/skull1.4e9c5d1d.svg",
     "static/media/skull2.svg": "/deathdate/static/media/skull2.c943ccf9.svg",

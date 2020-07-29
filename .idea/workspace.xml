@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38035a35-933b-4560-ab0d-1376196c823d" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
@@ -10,6 +11,24 @@
       <change beforePath="$PROJECT_DIR$/build/static/js/2.1b2166ae.chunk.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/static/js/main.15131fbb.chunk.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.01fa1628.js" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.d60d6f95b1990c23fea42a8bcb58ace3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.19481ff5.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.4285fc34.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.0f06d176.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.80fb30e4.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.67627fc5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/skull1.4e9c5d1d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/skull2.c943ccf9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/skull3.93729030.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/skull4.f3e97e71.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/story-bg.848e2711.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +41,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -30,6 +50,15 @@
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
                 <element signature="n#!!block;n#constructor#0;n#App#0" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="320" column="30" lean-forward="true" selection-start-line="320" selection-start-column="30" selection-end-line="320" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
                 <element signature="n#!!block;n#componentDidMount#0;n#App#0" />
                 <element signature="n#!!block;n#initializeApp#0;n#App#0" />
                 <element signature="n#!!block;n#initializeTimer#0;n#App#0" />
@@ -45,10 +74,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/App.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
             </state>
           </provider>
         </entry>
@@ -57,6 +114,22 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+<<<<<<< HEAD
+=======
+      <find>reason1</find>
+      <find>date2</find>
+      <find>reason2</find>
+      <find>_date1</find>
+      <find>_reason1</find>
+      <find>_date2</find>
+      <find>_reason2</find>
+      <find>__date1</find>
+      <find>__reason1</find>
+      <find>__date2</find>
+      <find>__reason2</find>
+      <find>___date2</find>
+      <find>___date1</find>
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
       <find>___reason1</find>
       <find>___reason2</find>
       <find>____date2</find>
@@ -74,6 +147,7 @@
       <find>img</find>
       <find>group_</find>
       <find>eruda</find>
+<<<<<<< HEAD
       <find>Snack</find>
       <find>Init</find>
       <find>AppInit</find>
@@ -87,6 +161,8 @@
       <find>group_id</find>
       <find>vk.com/app</find>
       <find>мне осталось</find>
+=======
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,10 +184,17 @@
         <option value="$PROJECT_DIR$/src/components/StickerGrid.js" />
         <option value="$PROJECT_DIR$/src/components/StickerImg.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/css/App.css" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/App.js" />
+=======
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/css/App.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
       </list>
     </option>
   </component>
@@ -128,7 +211,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+      <pane id="Scope" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,14 +238,22 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+      <pane id="PackagesPane" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ClickerBattle" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -267,21 +362,35 @@
       <workItem from="1595690126099" duration="15199000" />
       <workItem from="1595753691266" duration="7141000" />
       <workItem from="1595761695953" duration="496000" />
+<<<<<<< HEAD
       <workItem from="1595967978226" duration="8031000" />
       <workItem from="1595976038517" duration="148000" />
       <workItem from="1595976909872" duration="2755000" />
       <workItem from="1596011602710" duration="71000" />
       <workItem from="1596022526332" duration="1353000" />
+=======
+      <workItem from="1595967978226" duration="4513000" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="213499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
+=======
+    <option name="totallyTimeSpent" value="205654000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13432837" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -290,14 +399,22 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32827735" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.32827735" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="TypeScript" order="8" sideWeight="0.49946696" weight="0.32936078" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936078" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.3261105" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -410,6 +527,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/lib/react-app.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
@@ -421,11 +539,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/css/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="51">
           <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
         </state>
@@ -435,16 +560,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+=======
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/lib/react-app.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="36" column="25" selection-start-line="36" selection-end-line="40" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="306">
           <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <element signature="n#!!block;n#constructor#0;n#App#0" />
+=======
+        <state relative-caret-position="364">
+          <caret line="320" column="30" lean-forward="true" selection-start-line="320" selection-start-column="30" selection-end-line="320" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
             <element signature="n#!!block;n#componentDidMount#0;n#App#0" />
             <element signature="n#!!block;n#initializeApp#0;n#App#0" />
             <element signature="n#!!block;n#initializeTimer#0;n#App#0" />
@@ -458,5 +604,15 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
   </component>
 </project>
