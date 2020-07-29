@@ -2,10 +2,7 @@ import 'core-js/features/map';
 import 'core-js/features/set';
 import React from 'react';
 import ReactDOM from 'react-dom';
-<<<<<<< HEAD
-=======
 import bridge from '@vkontakte/vk-bridge';
->>>>>>> 0aaa66445f68a8bb01880e48dcba6b1ac5483f85
 import App from './App';
 // import registerServiceWorker from './sw';
 
