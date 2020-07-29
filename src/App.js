@@ -16,9 +16,9 @@ import skull4 from './img/skull4.svg'
 import downwards_black_arrow from './img/downwards-black-arrow.png';
 import story_bg from './img/story-bg.jpg';
 
-let group_id = 197503565,
-	app_id = 7552341,
-	need_sub_group = true;
+let group_id = 197419756,
+	app_id = 7549544,
+	need_sub_group = false;
 
 const os = platform();
 
@@ -45,7 +45,6 @@ class App extends React.Component {
 	}
 
 	async componentDidMount () {
-		console.log(group_id);
 		bridge.subscribe(async ({ detail: { type, data }}) => {
 			if(type !== undefined) console.log(type, data);
 			if (type === 'VKWebAppUpdateConfig') {
@@ -88,7 +87,6 @@ class App extends React.Component {
 			this.setState({ data, sValues });
 
 			if(data.______date2 !== false && data.______date2 !== 0){
-				console.log('user is not first', data);
 				await this.initializeTimer();
 				this.go('main');
 			}
@@ -130,6 +128,7 @@ class App extends React.Component {
 			}catch (e) {}
 		}, 600);
 		let generated = await this.generateRandomTime(false);
+		await this.sleep(500);
 		this.updateTime();
 		await this.sleep(500);
 		return true;
@@ -297,7 +296,7 @@ class App extends React.Component {
 						<div id='bg_shapes'/>
 						<div style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', width: '80vw', textAlign: 'center', zIndex: 3 }}>
 							<Title level='1' weight='semibold'>Мне осталось <span style={{ backgroundImage: 'linear-gradient(to left, #fc6076 0%, #ff9a44 100%)', color: 'white', lineHeight: '18px', padding: '4px 4px 8px 4px', display: 'inline-block' }}>жить</span></Title>
-							<Title level='2' weight='semibold' style={{ marginTop: '12px' }}>{this.state.time}</Title>
+							{ this.state.time ? <Title level='2' weight='semibold' style={{ marginTop: '12px' }}>{this.state.time}</Title> : <span style={{ marginTop: '12px' }}>0 секунд</span> }
 							<Headline weight='semibold' style={{ marginTop: '12px', color: 'white', background: 'linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%)', padding: '4px', display: 'inline-block' }}>{ 'Я умру' + ( this.state.paralel ? this.state.______reason2: this.state.reason ) }</Headline><br/>
 							<Button before={<Icon24ImageFilterOutline width={20} height={20} style={{ paddingRight: '4px' }}/>} size='l' style={{ marginTop: '12px', display: this.state.screen && 'none' }} onClick={
 								async ()=>{
