@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mementomori/static/css/main.84bec8af.chunk.css",
-    "main.js": "/mementomori/static/js/main.0d804006.chunk.js",
-    "runtime-main.js": "/mementomori/static/js/runtime-main.356f242a.js",
-    "static/css/2.19481ff5.chunk.css": "/mementomori/static/css/2.19481ff5.chunk.css",
-    "static/js/2.c01bd2cb.chunk.js": "/mementomori/static/js/2.c01bd2cb.chunk.js",
-    "index.html": "/mementomori/index.html",
-    "precache-manifest.9d40d4f7f0bde7283406882fb8fb93c7.js": "/mementomori/precache-manifest.9d40d4f7f0bde7283406882fb8fb93c7.js",
-    "service-worker.js": "/mementomori/service-worker.js",
-    "static/media/skull1.svg": "/mementomori/static/media/skull1.4e9c5d1d.svg",
-    "static/media/skull2.svg": "/mementomori/static/media/skull2.c943ccf9.svg",
-    "static/media/skull3.svg": "/mementomori/static/media/skull3.93729030.svg",
-    "static/media/skull4.svg": "/mementomori/static/media/skull4.f3e97e71.svg",
-    "static/media/story-bg.jpg": "/mementomori/static/media/story-bg.848e2711.jpg"
+    "main.css": "/deathdate/static/css/main.84bec8af.chunk.css",
+    "main.js": "/deathdate/static/js/main.81d91137.chunk.js",
+    "runtime-main.js": "/deathdate/static/js/runtime-main.67627fc5.js",
+    "static/css/2.19481ff5.chunk.css": "/deathdate/static/css/2.19481ff5.chunk.css",
+    "static/js/2.a45200fa.chunk.js": "/deathdate/static/js/2.a45200fa.chunk.js",
+    "index.html": "/deathdate/index.html",
+    "precache-manifest.832181f414389756550014fcb1740b8f.js": "/deathdate/precache-manifest.832181f414389756550014fcb1740b8f.js",
+    "service-worker.js": "/deathdate/service-worker.js",
+    "static/media/skull1.svg": "/deathdate/static/media/skull1.4e9c5d1d.svg",
+    "static/media/skull2.svg": "/deathdate/static/media/skull2.c943ccf9.svg",
+    "static/media/skull3.svg": "/deathdate/static/media/skull3.93729030.svg",
+    "static/media/skull4.svg": "/deathdate/static/media/skull4.f3e97e71.svg",
+    "static/media/story-bg.jpg": "/deathdate/static/media/story-bg.848e2711.jpg"
   }
 }
