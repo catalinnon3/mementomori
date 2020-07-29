@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/deadtime/static/css/main.84bec8af.chunk.css",
-    "main.js": "/deadtime/static/js/main.ed735d1b.chunk.js",
-    "runtime-main.js": "/deadtime/static/js/runtime-main.04270643.js",
-    "static/css/2.19481ff5.chunk.css": "/deadtime/static/css/2.19481ff5.chunk.css",
-    "static/js/2.410b4b03.chunk.js": "/deadtime/static/js/2.410b4b03.chunk.js",
-    "index.html": "/deadtime/index.html",
-    "precache-manifest.44b343c043b3532c5f6ecb51fdff29fb.js": "/deadtime/precache-manifest.44b343c043b3532c5f6ecb51fdff29fb.js",
-    "service-worker.js": "/deadtime/service-worker.js",
-    "static/media/skull1.svg": "/deadtime/static/media/skull1.4e9c5d1d.svg",
-    "static/media/skull2.svg": "/deadtime/static/media/skull2.c943ccf9.svg",
-    "static/media/skull3.svg": "/deadtime/static/media/skull3.93729030.svg",
-    "static/media/skull4.svg": "/deadtime/static/media/skull4.f3e97e71.svg",
-    "static/media/story-bg.jpg": "/deadtime/static/media/story-bg.848e2711.jpg"
+    "main.css": "/mementomori/static/css/main.84bec8af.chunk.css",
+    "main.js": "/mementomori/static/js/main.0d804006.chunk.js",
+    "runtime-main.js": "/mementomori/static/js/runtime-main.356f242a.js",
+    "static/css/2.19481ff5.chunk.css": "/mementomori/static/css/2.19481ff5.chunk.css",
+    "static/js/2.c01bd2cb.chunk.js": "/mementomori/static/js/2.c01bd2cb.chunk.js",
+    "index.html": "/mementomori/index.html",
+    "precache-manifest.9d40d4f7f0bde7283406882fb8fb93c7.js": "/mementomori/precache-manifest.9d40d4f7f0bde7283406882fb8fb93c7.js",
+    "service-worker.js": "/mementomori/service-worker.js",
+    "static/media/skull1.svg": "/mementomori/static/media/skull1.4e9c5d1d.svg",
+    "static/media/skull2.svg": "/mementomori/static/media/skull2.c943ccf9.svg",
+    "static/media/skull3.svg": "/mementomori/static/media/skull3.93729030.svg",
+    "static/media/skull4.svg": "/mementomori/static/media/skull4.f3e97e71.svg",
+    "static/media/story-bg.jpg": "/mementomori/static/media/story-bg.848e2711.jpg"
   }
 }
