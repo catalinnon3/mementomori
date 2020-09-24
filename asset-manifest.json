@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/mementomori/static/css/main.84bec8af.chunk.css",
-    "main.js": "/mementomori/static/js/main.d0bca547.chunk.js",
+    "main.css": "/mementomori/static/css/main.9a94d9fa.chunk.css",
+    "main.js": "/mementomori/static/js/main.aae1a65f.chunk.js",
     "runtime-main.js": "/mementomori/static/js/runtime-main.356f242a.js",
     "static/css/2.19481ff5.chunk.css": "/mementomori/static/css/2.19481ff5.chunk.css",
-    "static/js/2.5512f268.chunk.js": "/mementomori/static/js/2.5512f268.chunk.js",
+    "static/js/2.69a4786d.chunk.js": "/mementomori/static/js/2.69a4786d.chunk.js",
     "index.html": "/mementomori/index.html",
-    "precache-manifest.76f9018fec8c7f6d961e2e552a2333ad.js": "/mementomori/precache-manifest.76f9018fec8c7f6d961e2e552a2333ad.js",
+    "precache-manifest.024b28fc2cbeff8dd3104d5f708f5321.js": "/mementomori/precache-manifest.024b28fc2cbeff8dd3104d5f708f5321.js",
     "service-worker.js": "/mementomori/service-worker.js",
+    "static/media/bg.jpg": "/mementomori/static/media/bg.a83d8d2a.jpg",
     "static/media/skull1.svg": "/mementomori/static/media/skull1.4e9c5d1d.svg",
     "static/media/skull2.svg": "/mementomori/static/media/skull2.c943ccf9.svg",
     "static/media/skull3.svg": "/mementomori/static/media/skull3.93729030.svg",
     "static/media/skull4.svg": "/mementomori/static/media/skull4.f3e97e71.svg",
-    "static/media/story-bg.jpg": "/mementomori/static/media/story-bg.848e2711.jpg"
+    "static/media/story-bg.jpg": "/mementomori/static/media/story-bg.848e2711.jpg",
+    "static/media/text.png": "/mementomori/static/media/text.ab000314.png"
   }
 }

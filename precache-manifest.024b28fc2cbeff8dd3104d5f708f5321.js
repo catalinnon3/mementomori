@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53c37aaacc3830acf02dc1e30a491fa8",
+    "revision": "468b8d23ea9467690f96e209b14f9b15",
     "url": "/mementomori/index.html"
   },
   {
-    "revision": "c80c6b67508d7d3a9f65",
+    "revision": "d34dbcb1890b2a36bafe",
     "url": "/mementomori/static/css/2.19481ff5.chunk.css"
   },
   {
-    "revision": "b98b4c09bf9c65d4efb2",
-    "url": "/mementomori/static/css/main.84bec8af.chunk.css"
+    "revision": "e0108799a8ff83a806e9",
+    "url": "/mementomori/static/css/main.9a94d9fa.chunk.css"
   },
   {
-    "revision": "c80c6b67508d7d3a9f65",
-    "url": "/mementomori/static/js/2.5512f268.chunk.js"
+    "revision": "d34dbcb1890b2a36bafe",
+    "url": "/mementomori/static/js/2.69a4786d.chunk.js"
   },
   {
-    "revision": "b98b4c09bf9c65d4efb2",
-    "url": "/mementomori/static/js/main.d0bca547.chunk.js"
+    "revision": "e0108799a8ff83a806e9",
+    "url": "/mementomori/static/js/main.aae1a65f.chunk.js"
   },
   {
     "revision": "b3cc963c418844377568",
     "url": "/mementomori/static/js/runtime-main.356f242a.js"
+  },
+  {
+    "revision": "a83d8d2a0278948c39df5200ccc495b1",
+    "url": "/mementomori/static/media/bg.a83d8d2a.jpg"
   },
   {
     "revision": "4e9c5d1d982c063f04b696c2beae571b",
@@ -42,5 +46,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "848e27110cafe5bb8c889e8ec0dda659",
     "url": "/mementomori/static/media/story-bg.848e2711.jpg"
+  },
+  {
+    "revision": "ab000314eb01e125b771e60f22c3cde4",
+    "url": "/mementomori/static/media/text.ab000314.png"
   }
 ]);
