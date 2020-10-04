@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/mementomori/static/css/main.9a94d9fa.chunk.css",
-    "main.js": "/mementomori/static/js/main.531fc741.chunk.js",
+    "main.js": "/mementomori/static/js/main.4bd7a565.chunk.js",
     "runtime-main.js": "/mementomori/static/js/runtime-main.356f242a.js",
     "static/css/2.19481ff5.chunk.css": "/mementomori/static/css/2.19481ff5.chunk.css",
     "static/js/2.69a4786d.chunk.js": "/mementomori/static/js/2.69a4786d.chunk.js",
     "index.html": "/mementomori/index.html",
-    "precache-manifest.b123747fe12c97f696df9a0aa9753fd9.js": "/mementomori/precache-manifest.b123747fe12c97f696df9a0aa9753fd9.js",
+    "precache-manifest.265352e473c2a4fe8464b11f874817d5.js": "/mementomori/precache-manifest.265352e473c2a4fe8464b11f874817d5.js",
     "service-worker.js": "/mementomori/service-worker.js",
     "static/media/bg.jpg": "/mementomori/static/media/bg.a83d8d2a.jpg",
     "static/media/skull1.svg": "/mementomori/static/media/skull1.4e9c5d1d.svg",

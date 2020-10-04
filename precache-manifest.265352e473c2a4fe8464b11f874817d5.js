@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b614bc911b7b4409583a35730d1b26f",
+    "revision": "874ed1c4566b6bceb75edc6632444b3a",
     "url": "/mementomori/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mementomori/static/css/2.19481ff5.chunk.css"
   },
   {
-    "revision": "3536821de4acc3285cec",
+    "revision": "82c8d6bc534023db01f0",
     "url": "/mementomori/static/css/main.9a94d9fa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mementomori/static/js/2.69a4786d.chunk.js"
   },
   {
-    "revision": "3536821de4acc3285cec",
-    "url": "/mementomori/static/js/main.531fc741.chunk.js"
+    "revision": "82c8d6bc534023db01f0",
+    "url": "/mementomori/static/js/main.4bd7a565.chunk.js"
   },
   {
     "revision": "b3cc963c418844377568",
